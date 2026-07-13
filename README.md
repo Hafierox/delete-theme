@@ -9,7 +9,7 @@ The iconic cybernetic aliens from the Doctor Who franchise.
 
 To install this theme, simply use the ``omarchy-theme-install``   
 
-command: `` omarchy-theme-install https://github.com/signaldirective/delete-theme ``  
+command: `` omarchy-theme-install https://github.com/Hafierox/delete-theme ``  
 
 ## [Tip me on Ko-Fi!](https://ko-fi.com/signaldirective)   
   
